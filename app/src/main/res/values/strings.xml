@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Repeat-please</string>
+    <string name="main_create">Créer une partie</string>
+    <string name="main_join">Rejoindre une partie</string>
 </resources>
